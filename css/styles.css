@@ -32,4 +32,9 @@ h2{
 	border-radius: 10px;
 	background: black;
 	padding:  5px 15px 0 15px ;
+	display:inline-block;
+	list-style-type:none;
+	padding:5px 15px;
+	margin: 0;
+	display: inline;
 }
