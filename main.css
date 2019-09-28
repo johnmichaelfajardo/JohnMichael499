@@ -4,6 +4,7 @@ body{
 	
 }
 header{
+	border-radius: 10px;
 	background:#000;
 	color:  white;
 	padding:  5px 15px 0 15px ;
