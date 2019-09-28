@@ -28,3 +28,7 @@ nav ul li{
 nav ul li a{
 	color: white;
 }
+h2{
+	border-radius: 10px;
+	background:#000;
+}
