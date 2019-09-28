@@ -4,7 +4,7 @@ body{
 	font-family: arial;
 	
 }
-header{
+header h2{
 	border-radius: 10px;
 	background:#000;
 	color:  white;
@@ -28,13 +28,4 @@ nav ul li{
 nav ul li a{
 	color: white;
 }
-h2{
-	border-radius: 10px;
-	background: black;
-	padding:  5px 15px 0 15px ;
-	display:inline-block;
-	list-style-type:none;
-	padding:5px 15px;
-	margin: 0;
-	display: inline;
-}
+
