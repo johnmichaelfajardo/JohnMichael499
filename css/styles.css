@@ -30,5 +30,6 @@ nav ul li a{
 }
 h2{
 	border-radius: 10px;
-	background:#000;
+	background: black;
+	padding:  5px 15px 0 15px ;
 }
